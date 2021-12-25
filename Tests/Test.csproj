@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tasks_ConsoleApp\0_Tasks_ConsoleApp.csproj" />
+    <ProjectReference Include="..\Tasks_ConsoleApp\Tasks_ConsoleApp.csproj" />
     <ProjectReference Include="..\Write_a_generic_function_chainer\1_Write_a_generic_function_chainer.csproj" />
   </ItemGroup>
 
