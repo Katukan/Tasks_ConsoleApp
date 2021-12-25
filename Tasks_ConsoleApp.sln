@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Tasks_ConsoleApp", "Tasks
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Tests", "Tests\0_Tests.csproj", "{DD115F7A-580B-400F-B9B7-F7DFFBB011F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Write_a_generic_function_chainer", "Write_a_generic_function_chainer\1_Write_a_generic_function_chainer.csproj", "{183607D2-B8BC-421E-B5FB-9DDE34D34521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD115F7A-580B-400F-B9B7-F7DFFBB011F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD115F7A-580B-400F-B9B7-F7DFFBB011F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD115F7A-580B-400F-B9B7-F7DFFBB011F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183607D2-B8BC-421E-B5FB-9DDE34D34521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183607D2-B8BC-421E-B5FB-9DDE34D34521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183607D2-B8BC-421E-B5FB-9DDE34D34521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183607D2-B8BC-421E-B5FB-9DDE34D34521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

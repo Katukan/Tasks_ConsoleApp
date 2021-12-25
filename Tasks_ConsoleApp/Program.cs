@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+// 1 Write a generic function chainer
+Write_a_generic_function_chainer.Kata.Chain(0, null);
