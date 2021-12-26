@@ -47,7 +47,19 @@ public class CandyProblem
 {
     public static int GetMissingCandies(int[] candies)
     {
-        
-        return -1;
+        if(candies.Length <= 1)
+        {
+            return -1;
+        }
+
+        int maxCountCandies = candies.Max();
+        int sum = 0;
+
+        for(int i = 0; i < candies.Length; i++)
+        {
+            sum += maxCountCandies - candies[i];
+        }
+
+        return sum;
     }
 }

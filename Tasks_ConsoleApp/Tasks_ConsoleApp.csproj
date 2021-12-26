@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\3_Candy_Problem\3_Candy_Problem.csproj" />
     <ProjectReference Include="..\Write_a_generic_function_chainer\1_Write_a_generic_function_chainer.csproj" />
   </ItemGroup>
 
