@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Tests\Test.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Write_a_generic_function_chainer", "Write_a_generic_function_chainer\1_Write_a_generic_function_chainer.csproj", "{183607D2-B8BC-421E-B5FB-9DDE34D34521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Vampire_Numbers", "2_Vampire_Numbers\2_Vampire_Numbers.csproj", "{6068B8B3-E9CB-4C76-ABE7-EFE1A283132B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Vampire_Numbers", "2_Vampire_Numbers\2_Vampire_Numbers.csproj", "{6068B8B3-E9CB-4C76-ABE7-EFE1A283132B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Candy_Problem", "3_Candy_Problem\3_Candy_Problem.csproj", "{4C0F724C-554C-43EB-BA74-E4EC2CDDD1E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6068B8B3-E9CB-4C76-ABE7-EFE1A283132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6068B8B3-E9CB-4C76-ABE7-EFE1A283132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6068B8B3-E9CB-4C76-ABE7-EFE1A283132B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0F724C-554C-43EB-BA74-E4EC2CDDD1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0F724C-554C-43EB-BA74-E4EC2CDDD1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0F724C-554C-43EB-BA74-E4EC2CDDD1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0F724C-554C-43EB-BA74-E4EC2CDDD1E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
